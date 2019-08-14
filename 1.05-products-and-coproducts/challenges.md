@@ -12,7 +12,7 @@ since fog = idA and gof=idB, f = g^-1 so a,b are isomorphic.
 
 2. The minimum
 3. The maximum
-4. see [./either/src/main.rs](/either/src/main.rs)
+4. see [./either/src/main.rs](./either/src/main.rs)
 5. 
 ```
 Int -(Left)-> Either <-(Right)- Bool
