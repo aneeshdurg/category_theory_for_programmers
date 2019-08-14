@@ -49,5 +49,5 @@ instance Bifunctor Snd where
   bimap f g (Snd b) = Snd (g b)
 ```
 
-5. see functoriality/src/main.rs
+5. see [./functoriality/src/main.rs](./functoriality/src/main.rs)
 6. ?
